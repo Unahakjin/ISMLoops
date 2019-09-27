@@ -1,0 +1,6 @@
+E:\ISM\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe.config
+E:\ISM\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe
+E:\ISM\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.pdb
+E:\ISM\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.exe
+E:\ISM\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.pdb

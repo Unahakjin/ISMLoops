@@ -1,0 +1,6 @@
+E:\ISM\ISMLoops\ForConsole4\bin\Debug\ForConsole4.exe.config
+E:\ISM\ISMLoops\ForConsole4\bin\Debug\ForConsole4.exe
+E:\ISM\ISMLoops\ForConsole4\bin\Debug\ForConsole4.pdb
+E:\ISM\ISMLoops\ForConsole4\obj\Debug\ForConsole4.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\ForConsole4\obj\Debug\ForConsole4.exe
+E:\ISM\ISMLoops\ForConsole4\obj\Debug\ForConsole4.pdb

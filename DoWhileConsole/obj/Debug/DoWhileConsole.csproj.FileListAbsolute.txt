@@ -1,0 +1,7 @@
+E:\ISM\ISMLoops\DoWhileConsole\bin\Debug\DoWhileConsole.exe.config
+E:\ISM\ISMLoops\DoWhileConsole\bin\Debug\DoWhileConsole.exe
+E:\ISM\ISMLoops\DoWhileConsole\bin\Debug\DoWhileConsole.pdb
+E:\ISM\ISMLoops\DoWhileConsole\obj\Debug\DoWhileConsole.csprojAssemblyReference.cache
+E:\ISM\ISMLoops\DoWhileConsole\obj\Debug\DoWhileConsole.csproj.CoreCompileInputs.cache
+E:\ISM\ISMLoops\DoWhileConsole\obj\Debug\DoWhileConsole.exe
+E:\ISM\ISMLoops\DoWhileConsole\obj\Debug\DoWhileConsole.pdb
